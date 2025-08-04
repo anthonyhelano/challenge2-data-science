@@ -63,4 +63,4 @@ Esse projeto focado em análise de dados foi criado com fins educacionais e como
 
 ---
 
-🔗 Repositório: [github.com/anthonyhelano/challenge-alura-store](https://github.com/anthonyhelano/challenge2-data-science/tree/main)
+🔗 Repositório: [github.com/anthonyhelano/challenge2-data-science](https://github.com/anthonyhelano/challenge2-data-science/tree/main)
